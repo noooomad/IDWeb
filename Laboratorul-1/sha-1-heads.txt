@@ -1,0 +1,11 @@
+Branch : HEAD SHA-1 checksum
+C : e0b5564cac9d526a6d77ca2cddbba922378adf35
+C++ : 2da9ab69675baa5248d7e2ca2b9aecb47df31b9a
+C# : 9a7aa2d26e3b75f0eca5ae366c9c347aaaf451cd
+F# : 31d9eabd7f6057c472b8ad9c8d64736b56e50bbb
+Go : ad2d2245c23f41018d5d0c5d774b28190165a8a3
+Java : 1fad8a11de43e5844e7260d7b822bd9fa3d9d330
+JavaScript : 15052e659ddef10ff66ab7acdd1d63c3ca23b8a0
+PHP : e3d5fa4e387e702561632f2a5f7240bdb36bceb1
+Python : 0298dbd95abc257593e0e67b46339c50349f73dd
+Ruby : 1c9e42cd5865b338deb4ec2fdf6438e3eda5498d
